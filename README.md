@@ -78,7 +78,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/RolanDebleau/RolanDebleau/output/snake.svg" alt="Snake animation" />
-
-###
